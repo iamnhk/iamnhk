@@ -25,7 +25,7 @@ I'm a passionate Software Developer 🚀 and Data Enthusiast 📊 from Finland, 
 
 ## 🛠 Skills:
 
-- **Languages:** Python, JavaScript, HTML/CSS, SQL, Java
+- **Languages:** Python, JavaScript, HTML/CSS, SQL, C#, Java
 - **Frameworks/Libraries:** React, Node.js, Express, Django, Pandas, NumPy, Scikit-learn, TensorFlow
 - **Databases:** PostgreSQL, MongoDB
 - **Tools:** Git, Docker, AWS, Jupyter Notebooks
